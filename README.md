@@ -1,8 +1,6 @@
-# static
-
 ## Udacity P3 Jenkins pipelines in AWS
 
-This project demonstrates a jenkins CI CD pipeline for a S3 based website.
+This project demonstrates a jenkins CI/CD pipeline for a S3 based website.
 
  The Jenkinsfile has the build setup with linting verification.
 
